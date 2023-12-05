@@ -3,7 +3,7 @@
 /build/
 
 # Ignore environment configuration files
-.env
+app.env
 
 # Ignore system files
 .DS_Store
