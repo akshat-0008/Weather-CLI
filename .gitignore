@@ -1,0 +1,9 @@
+# Ignore compiled binaries
+/bin/
+/build/
+
+# Ignore environment configuration files
+.env
+
+# Ignore system files
+.DS_Store
