@@ -7,3 +7,5 @@ app.env
 
 # Ignore system files
 .DS_Store
+
+*.exe
